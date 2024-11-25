@@ -38,5 +38,5 @@ My time studying Cyber Security has led me to develop a passion for it. I look f
 </div>
 
 ## Projects
-- <a href="github.com"> Google Cybersecurity Practice Assessment Items>
+- <a href="github.com"> Google Cybersecurity Practice Assessment Items /</a>
     - Engaging in hands-on activities doing specific tasks individually before receiving feedback.
